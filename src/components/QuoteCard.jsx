@@ -1,5 +1,5 @@
 
-import "./QuoteCard.css"
+import "./Quotecard.css"
 
 const QuoteCard = ({ quote, handleChangeQuote }) => {
   
